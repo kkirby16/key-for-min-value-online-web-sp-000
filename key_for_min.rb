@@ -16,6 +16,7 @@ else
   end
 end
   key_for_min_value
+end
 
 end
 
