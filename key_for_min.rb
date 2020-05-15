@@ -4,6 +4,9 @@
 def key_for_min_value(name_hash)
   min_value = 1000
   key_for_min_value = ""
+  
+  if name_hash = {} 
+    key_for_min_value = nil
 
   name_hash.collect do |key, value|
     if value < min_value 
