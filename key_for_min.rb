@@ -14,6 +14,7 @@ end
   key_for_min_value
   if name_hash = {} 
     key_for_min_value = nil
+  end
 
 end
 
