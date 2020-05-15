@@ -14,6 +14,7 @@ end
   key_for_min_value
   if hash = {}
     return nil
+  end
 
 end
 
